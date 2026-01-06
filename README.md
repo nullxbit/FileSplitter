@@ -123,10 +123,6 @@ da7758be448b956f3ffb8afb7950dbc5f1ba9943e8df2db8549cdb6b1c6f8051  test_big.bin.m
 | `<filename>` | Path to the input file |
 | `<chunks>` | Number of chunks to split into or merge from |
 
-## License
-
-[Add your license here]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
