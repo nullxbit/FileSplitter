@@ -19,7 +19,7 @@ A simple and efficient command-line tool written in Rust for splitting large fil
 ### Build from Source
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nullxbit/FileSplitter.git
 cd splitter
 cargo build --release
 ```
